@@ -1,9 +1,6 @@
 # SpaceMonopoly
 
-Description:
-https://devpost.com/software/ndsu-and-ethan?ref_content=my-projects-tab&ref_feature=my_projects
-
-
+https://www.youtube.com/watch?v=_dDJ5DGYu6U&feature=emb_title
 
 Welcome to Space Monopoly! We are glad to have you aboard.
 
