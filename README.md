@@ -21,7 +21,7 @@ Inspirational Resources: http://stuffin.space/ https://github.com/jeyoder/StuffI
 
 Built With: css3, docker, elixir, html5, javascript, phoenix, postgresql, react
 
-
+<br>
 
 How to Run:
 
