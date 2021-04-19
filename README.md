@@ -1,5 +1,30 @@
 # SpaceMonopoly
 
+Description:
+https://devpost.com/software/ndsu-and-ethan?ref_content=my-projects-tab&ref_feature=my_projects
+
+
+
+Welcome to Space Monopoly! We are glad to have you aboard.
+
+Our inspiration came from our brainstorming session when we came upon an app showing live feed of space objects orbiting Earth! This app is called, Stuff in Space (linked below). Our goal was to then find a way to gamify the app, making it achieve every space voyager's entrepreneurial dream! To own the final frontier. Space Monopoly was born.
+
+We built it by splitting our team and work into a front-end duo and back-end duo. Once we split up, the front-end team focused on setting up the main UI displaying the game. The back-end team focused on setting up REST APIs for players, pieces, and satellites. The back-end team also worked to implement real-time features that allow the web server to send updates to clients.
+
+Like any project, we ran into a few challenges along the way. The team was not experienced with the Celestrak 100 API, Amsat API, Three.js graphics programming, web-socket programming using Phoenix, and a new programming language Elixir. This slowed our process due to our pursuit to learn something new and ambitious, but we trekked on.
+
+We are proud of our application's usage of web-socket connections and web-gl visualizations. These made for a beautiful and interesting project we are excited to work on after the hackathon ends. Overall, we are looking forward to using both Three.js and elixir in the future for real time applications.
+
+In our near future, we are planning on releasing this game for online users to play. We hope to also implement multiple game rooms so that more than 8 users can play concurrently.
+
+Inspirational Resources: http://stuffin.space/ https://github.com/jeyoder/StuffInSpace
+
+Built With: css3, docker, elixir, html5, javascript, phoenix, postgresql, react
+
+
+
+How to Run:
+
 Before starting your Phoenix server, you have to create a postgres database
 
 Run `docker-compose create`
